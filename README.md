@@ -8,7 +8,6 @@ This repo is front-end part of the [face-recognize-api](https://github.com/mahmu
 * [React](https://reactjs.org/) - JavaScript library for building user interfaces
 * [Create-React-App](https://create-react-app.dev/) - Tool for creating optimized single-page React applications
 * [Tachyons](https://tachyons.io/) - Css Tool Kit
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 	
 ## Setup
 ```
