@@ -1,7 +1,7 @@
 # face-recognate
 
 ## General info
-This repo is front-end part of the [face-recognate-api](https://github.com/mahmutsen/face-recognate-api) project which "detects faces on images you upload with relative urls.
+This repo is front-end part of the [face-recognize-api](https://github.com/mahmutsen/face-recognize-api) project which "detects faces on images you upload with relative urls.
 	
 ## Built With
 
